@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Hurtbox1
+  - Hurtbox2
+  - Hitbox1
+  - Hitbox2
   - Player
   - One-Way Platform
   - Solid Object
